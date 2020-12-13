@@ -1,0 +1,12 @@
+
+Welcome to the WGUPS parcel calculator!
+
+To view the status of all packages, include the hour and minutes as two separate cmd line arguments.
+
+eg. main.py 8 30
+his will display the status of all packages at 8:30
+
+To view the status of a single package, include the package id number as a third argument.
+
+eg. main.py 11 45 8
+This will display the status of package 8 at 11:45
